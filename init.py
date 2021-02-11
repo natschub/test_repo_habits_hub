@@ -17,7 +17,10 @@ from anaconda_project.internal.cli.console_utils import (print_project_problems,
 def init_command(project_dir, assume_yes, empty_environment):
     """Initialize a new project.
 
-    Returns:
+    WRONG:: 
+    
+    BUGS 
+    python!
         Exit code (0 on success)
     """
     # we don't want False right now because either you specify
