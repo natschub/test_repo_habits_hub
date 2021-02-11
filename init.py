@@ -14,7 +14,11 @@ from anaconda_project import project_ops
 from anaconda_project.internal.cli.console_utils import (print_project_problems, console_ask_yes_or_no)
 
 
-def init_command(project_dir, assume_yes, empty_environment):
+def blabla bla
+
+xxxx
+
+
     """Initialize a new project.
 
     WRONG:: 
