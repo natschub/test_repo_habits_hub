@@ -11,13 +11,19 @@ import os.path
 import sys
 from collections import defaultdict
 
+
+import pandas
+import numpy
+import matplotlib
+import csv
+
+
 from coverage.plugin import CoveragePlugin, FileTracer, FileReporter  # requires coverage.py 4.0+
 from coverage.files import canonical_filename
 
 from .Utils import find_root_package_dir, is_package_dir, open_source_file
 
 
-from . import __version__
 
 
 C_FILE_EXTENSIONS = ['.c', '.cpp', '.cc', '.cxx']
