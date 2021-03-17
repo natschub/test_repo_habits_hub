@@ -13,12 +13,11 @@ import os
 from anaconda_project import project_ops
 from anaconda_project.internal.cli.console_utils import (print_project_problems, console_ask_yes_or_no)
 
+def new function():
+    new lines
 
 def init_command(project_dir, assume_yes, empty_environment):
-    """Initialize a new project.
 
-    WRONG:: 
-    
     BUGS 
     python!
         Exit code (0 on success)
