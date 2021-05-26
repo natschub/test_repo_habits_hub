@@ -15,7 +15,11 @@ except ImportError:
     import warnings
     warnings.warn(
         "mkl-service package failed to import, therefore Intel(R) MKL "
-        "initialization ensuring its correct out-of-the box operation under "
-        "condition when Gnu OpenMP had already been loaded by Python process "
-        "is not assured. Please install mkl-service package, see "
-        "http://github.com/IntelPython/mkl-service", stacklevel=2)
+        "initialization ensuri
+        
+        
+        dfkjsdklfjs
+        fdsfkjsdlkf
+        dfjsklfjkd
+        
+        fsjkdfhksdljfs
